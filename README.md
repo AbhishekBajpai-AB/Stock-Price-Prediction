@@ -109,7 +109,8 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 📧 Contact  
+## 📧 Contact :
+
 For any questions or suggestions, feel free to reach out:  
-📩 **Your Email**: [your-email@example.com]  
-🔗 **GitHub**: [your-github-profile](https://github.com/your-username)  
+📩 **Your Email**: [ab7759081@gmail.com]  
+🔗 **GitHub**: [your-github-profile](https://github.com/AbhishekBajpai-AB)  
